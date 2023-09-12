@@ -32,3 +32,5 @@ $ npm start
 [Via Paypal](https://www.paypal.me/RadoslavAngelov)
 
 [Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
+
+Updated
